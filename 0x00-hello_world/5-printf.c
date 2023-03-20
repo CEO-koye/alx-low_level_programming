@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
- * main - Entry point
+ * main - Write to print thr string
  * Description: 'Hello print'
  *
  * Return: Always 0 (Success)
