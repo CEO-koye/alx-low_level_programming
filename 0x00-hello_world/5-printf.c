@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*
+/**
  * main - Write to print thr string
  * Description: 'Hello print'
  *
