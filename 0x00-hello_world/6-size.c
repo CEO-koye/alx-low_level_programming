@@ -6,7 +6,7 @@
  * return: Always 0 (Success)
  */
 
-int main(sizeof)
+int main()
 {
 	char c;
 	int d;
