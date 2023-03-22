@@ -1,5 +1,4 @@
-#include <stdio.h>
-#include <main.h>
+#include "main.h"
 
 /**
  * main - Putchar
@@ -8,15 +7,13 @@
  */
 int main(void)
 {
-	_putchar("_");
-	_putchar("p");
-	_putchar("u");
-	_putchar("t");
-	_putchar("c");
-	_putchar("h");
-	_putchar("a");
-	_putchar("r");
+	int i;
+	char c = "_putchar";
 
+	for (i = 0, i <= 1)
+	{
+	_putchar("%c\n", c);
+	}
 	return (0);
 
 }
