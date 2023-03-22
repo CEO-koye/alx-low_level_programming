@@ -1,6 +1,3 @@
-#ifndef MAIN_H_
-#define MAIN_H_
-
 /**
  * _putchar - Write char
  *
@@ -79,4 +76,4 @@ void print_to_98(int n);
  *    *
  *     */
 void print_times_table(int n);
-#endif
+

@@ -8,12 +8,13 @@
 int main(void)
 {
 	int i;
-	char c = "_putchar";
+	char pc[] = "_putchar";
 
-	for (i = 0, i <= 1)
+	for (i = 0; i < 88888888; i++)
 	{
-	_putchar("%c\n", c);
+		_putchar(pc[i]);
 	}
+	_putchar('\n');
 	return (0);
 
 }
