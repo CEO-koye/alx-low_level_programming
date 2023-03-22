@@ -5,6 +5,8 @@
  * Description: writes alphabet
  * Return: void
  */
+
+/*user defined funtion*/
 void print_alphabet(void)
 {
 	char alpha;
