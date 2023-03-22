@@ -6,15 +6,15 @@
  * Return: Always 0 (Success)
  */
 int main(void)
-{
-	int i;
-	char pc[] = "_putchar";
-
-	for (i = 0; i < 88888888; i++)
-	{
-		_putchar(pc[i]);
-	}
-	_putchar('\n');
+{	
+	_putchar('_');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
 	return (0);
 
 }
