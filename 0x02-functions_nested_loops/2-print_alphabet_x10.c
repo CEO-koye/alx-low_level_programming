@@ -2,6 +2,7 @@
 
 /**
  * main - Pint alphabet in lowercase
+ * @c
  * Description: writes alphabet
  * Return: void
  */
