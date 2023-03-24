@@ -1,20 +1,18 @@
 #include "main.h"
 
 /**
- * main - Pint alphabet in lowercase
+ * Print_alphabet in lowercase
  * Description: writes alphabet
  * Return: void
  */
 
-/*user defined funtion*/
 void print_alphabet(void)
 {
 	char alpha;
 
 	for (alpha = 'a'; alpha <= 'z'; alpha++)
-{
-	_putchar(alpha);
-}
-	_putchar('\n');
+	
+		_putchar(alpha);
+		_putchar('\n');
 }
 
