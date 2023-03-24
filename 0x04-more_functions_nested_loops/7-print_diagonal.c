@@ -4,7 +4,7 @@
  * print_line - straight line
  * @n: number of times
  */
-void print_line(int n)
+void print_diagonal(int n)
 {
 	if (n <= 0)
 	{
