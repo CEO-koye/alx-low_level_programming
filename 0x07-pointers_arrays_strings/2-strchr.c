@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _strchr -
+ * _strchr - prototype
  * @s: char input
  * @c: char input
  * Return: Always 0 (Success)
